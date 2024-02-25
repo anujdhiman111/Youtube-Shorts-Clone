@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+## YouTube Shorts Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the YouTube Shorts Clone project! This is a single-page application designed to replicate the core features of YouTube Shorts, providing users with a seamless and engaging experience for watching short videos.
 
-## Available Scripts
+## Installation
+To get started with the project, follow these simple steps:
 
-In the project directory, you can run:
+```bash
+git clone https://github.com/anujdhiman111/Youtube-Shorts-Clone.git
+cd youtube-shorts-clone
+npm install
+npm start
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
+Autoplay Functionality: Videos autoplay when they come into view, enhancing user engagement.
+Swipe Navigation (Mobile): Intuitive swipe gestures allow mobile users to navigate between videos effortlessly.
+Arrow Key Navigation (Desktop): Desktop users can easily navigate videos using arrow keys for a seamless viewing experience.
+Responsive Design: The application is designed to adapt to various screen sizes, ensuring a consistent and enjoyable experience across devices.
+User Interface Elements: Basic UI elements such as play/pause button, video progress indicator, and video title provide users with essential controls and information.
+Like and Dislike Buttons (Bonus): Users can express their preference for each video with the like and dislike buttons.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+This project is built using the following technologies:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React.js: A popular JavaScript library for building user interfaces.
+CSS: Styling is done using CSS, leveraging Flexbox and Grid for layout and responsiveness.
